@@ -1,5 +1,5 @@
 # Input-Output-RAS-estimation
-Estimates an IO table using RAS methodology using inputs: Technical coefficient for the base year, total demand for the target year, total consumption for the target year and total intermediate demand for the target year
+Estimates an IO table using RAS methodology using inputs: Technical coefficient for the base year, total demand for the target year, total consumption for the target year and total intermediate demand for the target year. Two programs are created for flexibility: One in R, another in Python.
 
 # Inputs: 
 1)	“Technical Coefficient in Base year” denoted as Matrix A(Y0): 
